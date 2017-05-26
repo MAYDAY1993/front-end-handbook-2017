@@ -1,12 +1,12 @@
-# 学习 web/浏览器 API
+# 学习 Web／浏览器 API 
 
 ![](../images/web-api.png "http://www.evolutionoftheweb.com/")
 
 <cite>图片来源<a href="http://www.evolutionoftheweb.com/">http://www.evolutionoftheweb.com/</a></cite>
 
-BOM（浏览器对象模型）和DOM（文档对象模型）并不是唯一的通过浏览器的 web 平台可以利用的浏览器 API。不单单指 DOM 或 BOM，只要是在浏览器上编程的接口都可以认为是一个 web 或浏览器 API (可惜的是这些 API 曾经被叫做 HTML5 API,这将它们自己的特性／标准与实际的明确 HTML5 标记语言的 HTML5 标准相混淆)。注意，web 或浏览器 API 确实包括能通过平板或手机设备上的浏览器利用的设备接口（例如，[`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery)）。
+BOM（浏览器对象模型）和DOM（文档对象模型）并不是唯一的通过浏览器的 web 平台可以利用的浏览器 API。不单单指 DOM 或 BOM，只要是在浏览器上编程的 API 都可以认为是一个 web 或浏览器 API（可惜的是这些 API 曾经被叫做 HTML5 API，这将它们自己的特性／标准与实际的明确 HTML5 标记语言的 HTML5 标准相混淆）。注意，web 或浏览器 API 确实包括通过平板或手机设备上的浏览器利用的设备 API（例如，[`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery)）。
 
-你应该了解并学习那些通用的 API。一个好的方法来让自己熟悉这些 API 就是去研究[HTML5test.com 上的占有率前五的浏览器接口](https://html5test.com/compare/browser/index.html)。
+你应该了解并学习那些通用的 API。一个好的方法来让自己熟悉这些 API 就是去研究 [HTML5test.com 上的占有率前五的浏览器 API](https://html5test.com/compare/browser/index.html)。
 
 ##### 学习:
 
